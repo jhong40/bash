@@ -12,4 +12,6 @@ http://johnstowers.co.nz/pages/bash-cheat-sheet.html <br>
 https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf<br>
 https://ehmatthes.github.io/pcc/cheatsheets/README.html <br>
 https://www.pythonsheets.com/ <br>
+https://pyformat.info/ <br>
+
 
