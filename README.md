@@ -13,6 +13,7 @@ https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf<br
 https://ehmatthes.github.io/pcc/cheatsheets/README.html <br>
 https://www.pythonsheets.com/ <br>
 https://pyformat.info/ <br> <br>
-https://realpython.com/python-f-strings/ <br>
+https://realpython.com/python-f-strings/ <br> <br>
+https://www.w3schools.com/python/python_datetime.asp <br>
 
 
